@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #ff2800; /* Ferrari Red */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+iframe {
+    width: 90%;
+    height: 80vh;
+    border: 3px solid #ff2800; /* Ferrari Red Border */
+    border-radius: 10px;
+}
